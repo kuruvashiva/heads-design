@@ -1,0 +1,31 @@
+.headder{
+    display: flex;
+    justify-content: center;
+    background-color: yellow;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+.cont{
+    background-color:rgb(245, 245, 236);
+}
+.pant{
+    color: brown;
+    background-color: aqua;
+}
+.tag{
+    color: blue;
+    background-color: aqua;
+}
+.com{
+    color: yellowgreen;
+    background-color: aqua;
+}
+.para{
+    color:brown;
+}
+.foot{
+    background-color: yellow;
+}
